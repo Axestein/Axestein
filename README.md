@@ -2,17 +2,19 @@
 
 ###
 
-<p align="left">My name is Aditya Kumar Singh and I'm a CSE Student, from SRM University,Ktr</p>
+<h2 align="left">About me</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left">My name is Aditya Kumar Singh and I'm a CSE Student, from SRM University,Ktr.I hope to contribute my skills to work upon real time projects that have an impact on the world. Open to all opportunities and learning from real-world professionals.</p> 
 
 ###
 
 <h2 align="left">I code with</h2>
 
 ###
+
+<img src="![1710780058179](https://github.com/Axestein/Axestein/assets/142435507/45b87037-7c92-4b5c-824c-dbf20fe7555a)" alt="Cool Photo" height="50" width="100" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
