@@ -44,6 +44,8 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original-wordmark.svg" height="40" alt="html logo" />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" alt=javascript logo" />
+  <img width="12" />
 </div>
 
 ###
