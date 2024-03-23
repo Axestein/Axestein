@@ -9,7 +9,7 @@
 <p align="left">My name is Aditya Kumar Singh and I'm a CSE Student, from SRM University,Ktr.I hope to contribute my skills to work upon real time projects that have an impact on the world. Open to all opportunities and learning from real-world professionals.</p> 
 
 
-<img src="[![1710780058179](https://github.com/Axestein/Axestein/assets/142435507/45b87037-7c92-4b5c-824c-dbf20fe7555a)](https://media.licdn.com/dms/image/D4D16AQFW4dgwJJ2tNg/profile-displaybackgroundimage-shrink_350_1400/0/1710780058179?e=1716422400&v=beta&t=EMOJRZEv93BstyhsTzmQwAkEtnn_6UZFSRs3_bHtcG8)" alt="Cool Photo" height="50" width="100" />
+<img src="https://media.licdn.com/dms/image/D4D16AQFW4dgwJJ2tNg/profile-displaybackgroundimage-shrink_350_1400/0/1710780058179?e=1716422400&v=beta&t=EMOJRZEv93BstyhsTzmQwAkEtnn_6UZFSRs3_bHtcG8" alt="Cool Photo" height="50" width="100" />
 
 ###
 
