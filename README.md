@@ -10,9 +10,6 @@
 
 <img src="https://github.com/user-attachments/assets/05e2d8d3-fe5f-40e5-a4a7-7bf225fd28ac" alt="WearIt Screenshot" height="215" width="900" />
 
-
-<img src="https://media.licdn.com/dms/image/D4D16AQFW4dgwJJ2tNg/profile-displaybackgroundimage-shrink_350_1400/0/1710780058179?e=1722470400&v=beta&t=3JT7xX1EfQqWSwFhzmSRLNkwKenA2DkLjNsbucdGOn0" alt="Cool Photo" height="215" width="900" />
-
 ###
 
 <h2 align="left">I code with</h2>
