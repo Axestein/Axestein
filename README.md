@@ -83,3 +83,16 @@
 <p><img align="left" src="https://gitmystat.vercel.app/user?theme=light&username=Axestein" alt="axestein"  height="200" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axestein&" alt="axestein" /></p>
+
+### Contact
+
+Want to get in touch? You can find me on various platforms:
+
+<div align="left">
+    <a href="mailto:adityandmb@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://discord.gg/adityasingh7209"><img alt="discord" src="https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge"></a>
+    <a href="https://instagram.com/adityasingh7209"><img alt="instagram" src="https://img.shields.io/badge/Instagram-Follow-FF0069?style=for-the-badge"></a>
+    <a href="https://linkedin.com/in/adityakumarsingh2005"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge"></a>
+    <a href="https://github.com/Axestein"><img alt="github" src="https://img.shields.io/badge/Github-Contact-000000?style=for-the-badge"></a>
+    <a href="https://x.com/adityasingh7211"><img alt="twitter" src="https://img.shields.io/badge/Twitter-Contact-1D9BF0?style=for-the-badge"></a>
+</div>
