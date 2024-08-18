@@ -80,6 +80,6 @@
 </div>
 
 ###
-<p><img align="left" src="https://gitmystat.vercel.app/user?theme=light&username=Axestein" alt="axestein" /></p>
+<p><img align="left" src="https://gitmystat.vercel.app/user?theme=light&username=Axestein" alt="axestein"  height="200" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axestein&" alt="axestein" /></p>
