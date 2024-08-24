@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/adityasingh7211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityasingh7211" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adityakumarsingh2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityakumarsingh2005" height="30" width="40" /></a>
@@ -35,56 +35,18 @@
 
 ###
 
-<h2 align="left">I code with</h2>
-
-###
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40" alt="expressjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="expressjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="expressjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="expressjs logo"/>
-  <img width="12" />
-</div>
-
-<h2 align="left">Languages I'm proficient in</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original-wordmark.svg" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original-wordmark.svg" height="40" alt="html logo" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" height="40" alt=javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
+  <h2>Languages, Frameworks & Tools</h2>
+  <img src="https://skillicons.dev/icons?i=git,github,nodejs,vite,html,css,tailwind,bootstrap,js,ts,react,nextjs,java,c,cpp,py,firebase,mongodb,express,postman,netlify,vercel,figma,vscode,gcp,blender,threejs,autocad" alt="skills logos" />
 </div>
 
 ###
+
 <p><img align="left" src="https://gitmystat.vercel.app/user?theme=light&username=Axestein" alt="axestein"  height="200" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axestein&" alt="axestein" /></p>
 
-### Contact
+## Contact
 
 Want to get in touch? You can find me on various platforms:
 
