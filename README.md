@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Lets connect<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"></h2>
 <p align="left">
 <a href="https://twitter.com/adityasingh7211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityasingh7211" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adityakumarsingh2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityakumarsingh2005" height="30" width="40" /></a>
