@@ -58,3 +58,5 @@ Want to get in touch? You can find me on various platforms:
     <a href="https://github.com/Axestein"><img alt="github" src="https://img.shields.io/badge/Github-Contact-000000?style=for-the-badge"></a>
     <a href="https://x.com/adityasingh7211"><img alt="twitter" src="https://img.shields.io/badge/Twitter-Contact-1D9BF0?style=for-the-badge"></a>
 </div>
+
+![81bb4b165684019 640b6038d133e](https://github.com/user-attachments/assets/3ea24751-5aeb-48c8-8689-1587509a42dd)
