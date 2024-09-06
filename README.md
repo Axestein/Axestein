@@ -18,8 +18,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axestein&label=Profile%20views&color=0e75b6&style=flat" alt="axestein" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axestein" alt="axestein" /></a> </p>
-
 ###
 
 <h2 align="left">Lets connect<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"></h2>
@@ -46,17 +44,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axestein&" alt="axestein" /></p>
 
-## Contact
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axestein" alt="axestein" /></a> </p>
 
-Want to get in touch? You can find me on various platforms:
-
-<div align="left">
-    <a href="mailto:adityandmb@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://discord.gg/adityasingh7209"><img alt="discord" src="https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge"></a>
-    <a href="https://instagram.com/adityasingh7209"><img alt="instagram" src="https://img.shields.io/badge/Instagram-Follow-FF0069?style=for-the-badge"></a>
-    <a href="https://linkedin.com/in/adityakumarsingh2005"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge"></a>
-    <a href="https://github.com/Axestein"><img alt="github" src="https://img.shields.io/badge/Github-Contact-000000?style=for-the-badge"></a>
-    <a href="https://x.com/adityasingh7211"><img alt="twitter" src="https://img.shields.io/badge/Twitter-Contact-1D9BF0?style=for-the-badge"></a>
-</div>
-
+###
 ![81bb4b165684019 640b6038d133e](https://github.com/user-attachments/assets/3ea24751-5aeb-48c8-8689-1587509a42dd)
