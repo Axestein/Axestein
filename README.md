@@ -44,7 +44,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axestein&" alt="axestein" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axestein" alt="axestein" /></a> </p>
+![GitHub Trophies](https://github-trophies.vercel.app/?username=Axestein&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ###
 ![81bb4b165684019 640b6038d133e](https://github.com/user-attachments/assets/3ea24751-5aeb-48c8-8689-1587509a42dd)
