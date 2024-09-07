@@ -35,7 +35,7 @@
 
 <div align="left">
   <h2>Languages, Frameworks & Tools</h2>
-  <img src="https://skillicons.dev/icons?i=git,github,nodejs,vite,html,css,tailwind,bootstrap,js,ts,react,nextjs,java,c,cpp,py,firebase,mongodb,express,postman,netlify,vercel,figma,vscode,gcp,blender,threejs,autocad" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=git,github,nodejs,vite,html,css,tailwind,js,ts,react,nextjs,java,c,cpp,py,mongodb,express,netlify,vercel,figma,vscode,gcp,threejs,autocad" alt="skills logos" />
 </div>
 
 ###
