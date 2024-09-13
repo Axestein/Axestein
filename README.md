@@ -12,7 +12,7 @@
 
 </p> 
 
-<img src="https://github.com/user-attachments/assets/05e2d8d3-fe5f-40e5-a4a7-7bf225fd28ac" alt="WearIt Screenshot" height="215" width="900" />
+<img src="https://github.com/user-attachments/assets/1800c660-ac8d-40a3-810e-05b575bf954e" alt="WearIt Screenshot" height="215" width="900" />
 
 ###
 
