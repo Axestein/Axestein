@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I am a second-year Computer Science undergraduate at SRM University Chennai, Kattankulathur, specializing in frontend web development. With expertise in React, Next.js, and Tailwind CSS, I build intuitive web applications and manage version control using Git and GitHub. I am currently expanding into backend development with Express and Mongoose and have a strong focus on data structures and algorithms. Additionally, I use Figma and Framer for UI design. Outside of coding, I enjoy playing chess and am eager to connect with fellow tech enthusiasts and explore collaborative opportunities.
+<p align="left">I am a second-year Computer Science undergraduate at SRM University Chennai, specializing in frontend web development. With expertise in React, Next.js, and Tailwind CSS, I build intuitive web applications and manage version control using Git and GitHub. I am currently expanding into backend development with Express and Mongoose and have a strong focus on data structures and algorithms. Additionally, I use Figma and Framer for UI design. Outside of coding, I enjoy playing chess and am eager to connect with fellow tech enthusiasts and explore collaborative opportunities.
   
 - 📫 How to reach me **adityandmb@gmail.com**
 
