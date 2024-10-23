@@ -46,5 +46,7 @@
 
 ![GitHub Trophies](https://github-trophies.vercel.app/?username=Axestein&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
+[![An image of @axestein's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/axestein)](https://holopin.io/@axestein)
+
 ###
 ![81bb4b165684019 640b6038d133e](https://github.com/user-attachments/assets/3ea24751-5aeb-48c8-8689-1587509a42dd)
