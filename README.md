@@ -48,7 +48,7 @@
 
 ###
 
-<h2 align="left">Holopin Badges (Because I love OpenSource Contribution)</h2>
+<h2 align="left">Holopin Badges (Because I love OpenSource)</h2>
 
 ###
 
