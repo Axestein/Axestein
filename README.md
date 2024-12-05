@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar Singh</h1>
 
+<img src="https://github.com/user-attachments/assets/1800c660-ac8d-40a3-810e-05b575bf954e" alt="User Banner" height="215" width="900" />
+
 ###
 
 <h2 align="left">About me</h2>
@@ -11,8 +13,6 @@
 - 📫 How to reach me **adityandmb@gmail.com**
 
 </p> 
-
-<img src="https://github.com/user-attachments/assets/1800c660-ac8d-40a3-810e-05b575bf954e" alt="User Banner" height="215" width="900" />
 
 ###
 
@@ -40,6 +40,8 @@
 
 ###
 
+<h2>My Stats</h2>
+
 <p><img align="left" src="https://gitmystat.vercel.app/user?theme=light&username=Axestein" alt="axestein"  height="200" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axestein&" alt="axestein" /></p>
@@ -55,4 +57,3 @@
 [![An image of @axestein's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/axestein)](https://holopin.io/@axestein)
 
 ###
-![81bb4b165684019 640b6038d133e](https://github.com/user-attachments/assets/3ea24751-5aeb-48c8-8689-1587509a42dd)
