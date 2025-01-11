@@ -35,7 +35,7 @@
 
 <div align="left">
   <h2>Languages, Frameworks & Tools</h2>
-  <img src="https://skillicons.dev/icons?i=git,github,nodejs,html,css,tailwind,js,ts,react,nextjs,java,c,cpp,py,mongodb,express,figma,nginx,ubuntu,gcp,threejs,autocad,mysql,spring,postman,androidstudio,eclipse,gradle,npm,graphql" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=git,github,nodejs,html,css,tailwind,js,ts,react,nextjs,java,c,cpp,py,mongodb,express,figma,ubuntu,gcp,threejs,autocad,mysql,spring,postman,androidstudio,eclipse,gradle,npm,docker,graphql" alt="skills logos" />
 </div>
 
 ###
