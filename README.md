@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar Singh</h1>
 
-<img src="https://github.com/user-attachments/assets/1800c660-ac8d-40a3-810e-05b575bf954e" alt="User Banner" height="215" width="900" />
+![Group 1437253754](https://github.com/user-attachments/assets/b7a899cb-ec8b-4941-9096-745d6d331b25)
 
 ###
 
