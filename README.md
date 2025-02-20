@@ -42,7 +42,7 @@
 
 <h2>My Stats</h2>
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://gitmystat.vercel.app/user?theme=stealth&username=Axestein" alt="axestein" height="228" />
+    <img src="https://gitmystat.vercel.app/user?theme=stealth&username=Axestein" alt="axestein" height="200" />
     <img src="https://github-trophies.vercel.app/?username=Axestein&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="axestein" />
 </div>
 
