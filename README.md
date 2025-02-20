@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar Singh</h1>
 
-[![Image](https://github.com/user-attachments/assets/b7a899cb-ec8b-4941-9096-745d6d331b25)](https://portfoliov2-three-steel.vercel.app/)
+[![Image](https://github.com/user-attachments/assets/c720d117-2f60-4691-9665-3d8b1b742e41)](https://portfoliov2-three-steel.vercel.app/)
 
 ###
 
