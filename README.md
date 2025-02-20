@@ -41,10 +41,10 @@
 ###
 
 <h2>My Stats</h2>
-
-<p><img align="left" src="https://gitmystat.vercel.app/user?theme=stealth&username=Axestein" alt="axestein"  height="228" /></p>
-
-<p><img align="center" src="https://github-trophies.vercel.app/?username=Axestein&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="axestein" /></p>
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://gitmystat.vercel.app/user?theme=stealth&username=Axestein" alt="axestein" height="228" />
+    <img src="https://github-trophies.vercel.app/?username=Axestein&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="axestein" />
+</div>
 
 ###
 
