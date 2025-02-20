@@ -42,11 +42,9 @@
 
 <h2>My Stats</h2>
 
-<p><img align="left" src="https://gitmystat.vercel.app/user?theme=light&username=Axestein" alt="axestein"  height="200" /></p>
+<p><img align="left" src="https://gitmystat.vercel.app/user?theme=stealth&username=Axestein" alt="axestein"  height="228" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axestein&" alt="axestein" /></p>
-
-![GitHub Trophies](https://github-trophies.vercel.app/?username=Axestein&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+<p><img align="center" src="https://github-trophies.vercel.app/?username=Axestein&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="axestein" /></p>
 
 ###
 
