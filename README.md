@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">I am a second-year Computer Science undergraduate at SRM University, Chennai, specializing in both frontend and backend web development. I create intuitive web applications and manage version control using Git and GitHub. With a strong focus on data structures and algorithms, I am committed to building efficient and scalable solutions. Additionally, I use Figma and Framer for UI design. Currently, I am expanding my knowledge by learning Web3 technologies. Outside of coding, I enjoy playing chess and am eager to connect with fellow tech enthusiasts to explore collaborative opportunities.
+<p align="left">I am a third-year Computer Science undergraduate at SRM University, Chennai, specializing in both frontend and backend web development. I create intuitive web applications and manage version control using Git and GitHub. With a strong focus on data structures and algorithms, I am committed to building efficient and scalable solutions. Additionally, I use Figma and Framer for UI design. Currently, I am expanding my knowledge by learning Devops technologies. Outside of coding, I enjoy playing chess and am eager to connect with fellow tech enthusiasts to explore collaborative opportunities.I'm a third-year CS undergrad at SRM University, passionate about building sleek, scalable web and mobile apps. I specialize in full-stack development, blending clean UI (Figma, Framer) with solid backend logic, and I keep my code tight with Git/GitHub. Obsessed with clean code and DSA, I'm now diving into DevOps to level up my deployment game. I play chess to sharpen my strategic thinking and love teaming up on cool tech projects—let’s build something awesome!
 
 - 📫 How to reach me **adityandmb@gmail.com**
 
@@ -34,7 +34,7 @@
 
 <div align="left">
   <h2>Languages, Frameworks & Tools</h2>
-  <img src="https://skillicons.dev/icons?i=git,github,nodejs,html,css,tailwind,js,ts,react,nextjs,java,c,cpp,py,mongodb,express,figma,ubuntu,gcp,threejs,autocad,mysql,spring,postman,androidstudio,eclipse,gradle,npm,docker,graphql" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=git,github,nodejs,html,css,tailwind,js,ts,react,nextjs,java,c,cpp,py,express,mongodb,firebase,supabase,postgres,figma,ubuntu,autocad,mysql,spring,postman,androidstudio,eclipse,docker,graphql,aws,bash,gcp,kubernetes,docker" alt="skills logos" />
 </div>
 
 ###
